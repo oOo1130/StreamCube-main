@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "..\\Business"
+		},
+		{
+			"path": "..\\Consumer"
+		},
+		{
+			"path": "..\\Launchpad"
+		},
+		{
+			"path": "..\\layout"
+		},
+		{
+			"path": "..\\Route"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\User"
+		},
+		{
+			"path": "..\\SC"
+		}
+	]
+}
